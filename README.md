@@ -1,30 +1,39 @@
 # Hi 👋, I'm Allyson
 
-💻 **Frontend Developer (em formação)**  
+💻 **Frontend Developer em formação**  
 🇧🇷 Brazil
 
-Sou iniciante na programação, com **1 ano de experiência em HTML e CSS**, atualmente estudando **JavaScript**.  
-Gosto de criar **sites e aplicativos**, sempre buscando evoluir e aprender novas tecnologias.
+Sou estudante de programação, cursando **Ensino Médio Integrado à Informática**.  
+Tenho experiência com **HTML e CSS** e atualmente estou estudando **JavaScript**.
 
+Gosto de criar **sites e aplicações web**, focando em aprender na prática e evoluir constantemente.  
 Meu objetivo é me tornar **Full Stack Developer**, estudando futuramente **Node.js** e **React**.
+
+---
+
+## 🎓 Formação
+
+- Ensino Médio Integrado à Informática  
+- Lógica de Programação  
+- Desenvolvimento Web com HTML e CSS  
+- Estudos em andamento: JavaScript
 
 ---
 
 ## 🌱 Atualmente aprendendo
 
-- 📘 JavaScript (fundamentos, lógica e DOM)
-- 🎨 Boas práticas de HTML & CSS
-- 🧠 Conceitos básicos de programação
-- 🛠️ Versionamento com Git e GitHub
+- JavaScript (fundamentos, lógica e manipulação do DOM)
+- Boas práticas de desenvolvimento web
+- Organização de projetos e versionamento com Git e GitHub
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🧩 Gosto de transformar ideias em interfaces reais
-- 🌐 Curto desenvolver sites do zero
-- 🚀 Sempre buscando melhorar meu código
-- 📚 Estudando todos os dias para entrar no mercado de tecnologia
+- 🧩 Interesse em desenvolvimento web
+- 🌐 Gosto de criar interfaces e sites do zero
+- 🚀 Busco evoluir um pouco todos os dias
+- 📚 Aprendizado constante através de projetos práticos
 
 ---
 
@@ -36,7 +45,7 @@ Meu objetivo é me tornar **Full Stack Developer**, estudando futuramente **Node
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
-### Em breve 🚧
+### Próximos estudos
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -45,10 +54,10 @@ Meu objetivo é me tornar **Full Stack Developer**, estudando futuramente **Node
 
 ## 📂 O que você vai encontrar aqui
 
-- 🧪 Projetos de estudo
-- 🎯 Exercícios práticos
-- 🌐 Sites feitos com HTML, CSS e JavaScript
-- 📈 Minha evolução como desenvolvedor
+- Projetos de estudo
+- Exercícios práticos
+- Sites desenvolvidos com HTML, CSS e JavaScript
+- Evolução contínua como desenvolvedor
 
 ---
 
@@ -61,11 +70,11 @@ Meu objetivo é me tornar **Full Stack Developer**, estudando futuramente **Node
 
 ---
 
-## 🚀 Objetivo
+## 🚀 Objetivo Profissional
 
-> _"Aprender um pouco todos os dias e evoluir como desenvolvedor, um projeto de cada vez."_
+> _"Construir uma base sólida em desenvolvimento web e evoluir para o Full Stack, criando soluções funcionais e bem estruturadas."_
 
 ---
 
-⭐ Acompanhe minha evolução  
-🤝 Sempre aberto a aprender e trocar ideias
+⭐ Obrigado por visitar meu perfil  
+🤝 Sempre aberto a aprender, evoluir e trocar conhecimento
