@@ -10,30 +10,12 @@ Gosto de criar **sites e aplicações web**, focando em aprender na prática e e
 Meu objetivo é me tornar **Full Stack Developer**, estudando futuramente **Node.js** e **React**.
 
 ---
+## 💻 Desenvolvimento em Programação
 
-## 🎓 Formação
-
-- Ensino Médio Integrado à Informática  
-- Lógica de Programação  
-- Desenvolvimento Web com HTML e CSS  
-- Estudos em andamento: JavaScript
-
----
-
-## 🌱 Atualmente aprendendo
-
-- JavaScript (fundamentos, lógica e manipulação do DOM)
-- Boas práticas de desenvolvimento web
-- Organização de projetos e versionamento com Git e GitHub
-
----
-
-## 🧠 Sobre mim
-
-- 🧩 Interesse em desenvolvimento web
-- 🌐 Gosto de criar interfaces e sites do zero
-- 🚀 Busco evoluir um pouco todos os dias
-- 📚 Aprendizado constante através de projetos práticos
+* Ensino Médio Integrado à Informática
+* Desenvolvimento Web (HTML, CSS e JavaScript)
+* Git e GitHub
+* Aprendizado contínuo e projetos práticos 🚀
 
 ---
 
@@ -56,7 +38,6 @@ Meu objetivo é me tornar **Full Stack Developer**, estudando futuramente **Node
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=allysonncs&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonncs&layout=compact&theme=tokyonight" />
 </p>
 
 ---
