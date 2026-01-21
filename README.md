@@ -4,7 +4,6 @@
 🇧🇷 Brazil
 
 Sou estudante de programação, cursando **Ensino Médio Integrado à Informática**.  
-Tenho experiência com **HTML e CSS** e atualmente estou estudando **JavaScript**.
 
 Gosto de criar **sites e aplicações web**, focando em aprender na prática e evoluir constantemente.  
 Meu objetivo é me tornar **Full Stack Developer**, estudando futuramente **Node.js** e **React**.
@@ -12,14 +11,13 @@ Meu objetivo é me tornar **Full Stack Developer**, estudando futuramente **Node
 ---
 ## 💻 Desenvolvimento em Programação
 
-* Ensino Médio Integrado à Informática
 * Desenvolvimento Web (HTML, CSS e JavaScript)
 * Git e GitHub
 * Aprendizado contínuo e projetos práticos 🚀
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Stack
 
 ### Frontend
 
