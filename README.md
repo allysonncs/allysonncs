@@ -1,7 +1,7 @@
 # Hi 👋, I'm Allyson
 
-💻 **Frontend Developer em formação**  
 🇧🇷 Brazil
+💻 **Frontend Developer em formação**  
 
 Sou estudante de programação, cursando **Ensino Médio Integrado à Informática**.  
 
