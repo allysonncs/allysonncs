@@ -52,15 +52,6 @@ Meu objetivo é me tornar **Full Stack Developer**, estudando futuramente **Node
 
 ---
 
-## 📂 O que você vai encontrar aqui
-
-- Projetos de estudo
-- Exercícios práticos
-- Sites desenvolvidos com HTML, CSS e JavaScript
-- Evolução contínua como desenvolvedor
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
