@@ -2,12 +2,10 @@
 
 🇧🇷 Brazil
 
-💻 **Frontend Developer em formação**  
+💻 **FullStack Developer em formação**  
 
 Sou estudante de programação, cursando **Ensino Médio Integrado à Informática**.  
-
 Gosto de criar **sites e aplicações web**, focando em aprender na prática e evoluir constantemente.  
-Meu objetivo é me tornar **Full Stack Developer**, estudando futuramente **Node.js** e **React**.
 
 ---
 ## 💻 Desenvolvimento em Programação
