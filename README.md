@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/Full%20Stack-Developer%20in%20Progress-0A66C2?style=flat)
 ![Focus](https://img.shields.io/badge/Focus-Web%20Development-0A66C2?style=flat)
-![Community](https://img.shields.io/badge/Member-Programador%20Community-5865F2?style=flat)
 
 Studying Integrated High School in Informatics, passionate about technology, web development, and building real projects.
 
@@ -13,11 +12,11 @@ allysonncordeiro@gmail.com
 
 ## Stacks
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git" />
 
 ---
 
-## Tech Content & Social
+## Social
 
 <a href="https://instagram.com/allysonncs">
 <img src="https://skillicons.dev/icons?i=instagram" />
@@ -27,9 +26,6 @@ allysonncordeiro@gmail.com
 <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
-<a href="https://github.com/allysonncs">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
 
 ---
 
