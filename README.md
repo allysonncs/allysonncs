@@ -1,66 +1,63 @@
-# Allyson Nascimento
+# 👋 Allyson Nascimento
 
-`Full Stack Developer in Progress`
+`Full Stack Developer in progress | Web Developer`
 
 🇧🇷 Brazil
 
-I'm a programming student focused on becoming a Full Stack Developer.  
-Currently studying **Integrated High School in Informatics**, building a strong foundation in web development and software engineering.
+I'm a programming student currently studying **Integrated High School in Informatics**.  
+Passionate about **technology, web development, and building real projects**.
 
-I enjoy creating projects, learning new technologies, and improving my skills through practice and consistency.
+Focused on improving every day and becoming a professional Full Stack Developer.
 
 ---
 
-## ⚡ Tech Focus
+## 🚀 Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
-### Next Steps
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs)
-![React](https://img.shields.io/badge/React-Frontend_Framework-20232A?style=for-the-badge&logo=react)
+### Next Learning
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ---
 
-## 📊 Activity
+## 📊 GitHub Stats
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=allysonncs&show_icons=true&theme=tokyonight" />
 
 ---
 
-## 🌐 Contact
+## 🌐 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-@allysonncs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/allysonncs)
+[![Instagram](https://img.shields.io/badge/Instagram-allysonncs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/allysonncs)
 
 [![Discord](https://img.shields.io/badge/Discord-allysonncs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU-ID)
 
 ---
 
-## 🎯 Current Mission
+## 🎯 Goal
 
-Develop solid skills in web development and evolve into a Full Stack Developer capable of building complete and efficient applications.
+Become a professional Full Stack Developer and build useful and impactful applications.
 
 ---
 
-## 📚 Learning Journey
+## 📚 Currently Learning
 
+• JavaScript  
+• Git & GitHub  
 • Web Development  
 • Programming Logic  
-• Version Control (Git & GitHub)  
-• JavaScript and modern tools  
 
 ---
 
 ## 🌎 Languages
 
-Portuguese — Native  
-English — Improving  
+🇧🇷 Portuguese — Native  
+🇺🇸 English — Learning  
 
 ---
 
-## ⚙️ Mindset
-
-Consistency > Motivation  
-Progress > Perfection
+⭐ Always learning and evolving
