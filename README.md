@@ -8,30 +8,35 @@ allysonncordeiro@gmail.com
 
 ---
 
-## Stacks
+## ⚙️ Stacks
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git" />
 
 ---
 
-## Social
+## 🔗 Social
 
 <a href="https://instagram.com/allysonncs">
-<img src="https://skillicons.dev/icons?i=instagram" />
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="https://discord.gg/programador">
-<img src="https://skillicons.dev/icons?i=discord" />
+  <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
+<a href="https://www.tiktok.com/@_allysonncs">
+  <img src="https://skillicons.dev/icons?i=tiktok" />
+</a>
+
+<a href="https://github.com/allysonncs">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
 ---
 
-## My Dev Community
+## 🌐 Dev Community
 
-<a href="https://discord.gg/programador">
-<img src="https://discordapp.com/api/guilds/740287152843128944/widget.png?style=banner2"/>
-</a>
+[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900)](https://discord.gg/programador)
 
 ---
 
@@ -39,3 +44,7 @@ allysonncordeiro@gmail.com
 
 ![Portuguese](https://img.shields.io/badge/Portuguese-Native-0A66C2?style=flat)
 ![English](https://img.shields.io/badge/English-Learning-0A66C2?style=flat)
+
+---
+
+> Learn. Build. Code. Repeat.
