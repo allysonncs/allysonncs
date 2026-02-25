@@ -1,5 +1,3 @@
-# Allyson Cordeiro  
-
 ![Status](https://img.shields.io/badge/Full%20Stack-Developer%20in%20Progress-0A66C2?style=flat)
 ![Focus](https://img.shields.io/badge/Focus-Web%20Development-0A66C2?style=flat)
 
